@@ -1,16 +1,16 @@
 {
   music: [
     {
-      title: "Jazz in Paris",
+      title: "BACHATA MIX 312 ELVIS MARTINEZ MIX",
       album: "Jazz & Blues",
       artist: "Media Right Productions",
-      genre: "Jazz & Blues",
-      source: "Jazz_In_Paris.mp3",
+      genre: "Bachata",
+      source: "BACHATA MIX 312 ELVIS MARTINEZ MIX.mp3",
       image: "album_art.jpg",
       trackNumber: 1,
       totalTrackCount: 6,
       duration: 103,
-      site: "https://www.youtube.com/audiolibrary/music"
+      site: "http://music.djloboapp.com/music"
     },
     {
       title: "The Messenger",
